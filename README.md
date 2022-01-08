@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/Thiagodev777">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 👉 Conhecimento nas Seguintes Tecnologias 👈
@@ -18,7 +18,7 @@
   <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                 <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
 </div>
 
-## Minhas Redes Sociais
+## 🗣️ Minhas Redes Sociais 🗣️
    <div style="display: inline-block">
     <img style="width="40" height="30" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     <img style="width="40" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
