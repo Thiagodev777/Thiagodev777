@@ -1,11 +1,11 @@
-## Olá! Eu sou o Antonio Thiago 🔥
+## <img height="30px" src="https://user-images.githubusercontent.com/50364832/143615313-330ef73e-ee1c-4cfe-b71d-7462a00f16b4.gif" /> Olá! Eu sou o Antonio Thiago 
 
 ### Um pouco sobre mim ✍️
 
 🧑‍💻 Sou Desenvolvedor Web iniciante Focado no Desenvolvimento de Plataformas Web Adaptaveis e Interativas.🧑‍💻 <br/>
 💻Atualmente estou estudando minha Primeira Linguagem (Java Script).💻<br/>
 
-## ✔️ Github Stats
+## ✔️ Github Stats 
 <div align="left">
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
