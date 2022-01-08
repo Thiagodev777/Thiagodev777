@@ -1,16 +1,29 @@
-### Hi there 👋
+## Olá! Eu sou o Antonio Thiago 🔥
 
-<!--
-**Thiagodev777/Thiagodev777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Um pouco sobre mim ✍️
 
-Here are some ideas to get you started:
+🧑‍💻 Sou Desenvolvedor Web iniciante focado no Desenvolvimento de plataformas Web Adaptaveis e Interativas.🧑‍💻 <br/>
+💻Atualmente estou estudando minha primeira linguagem (Java Script).💻<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Thiagodev777">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+## 👉 Conhecimento nas Seguintes Tecnologias 👈
+
+<div style="display: inline-block">
+  <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                 <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+</div>
+
+## Minhas Redes Sociais
+   <div style="display: inline-block">
+    <img style="width="40" height="30" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img style="width="40" height="30" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img style="width="40" height="30" align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </div><br/>
+    
+
+  
