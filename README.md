@@ -5,6 +5,12 @@
 🧑‍💻 Sou Desenvolvedor Web iniciante Focado no Desenvolvimento de Plataformas Web Adaptaveis e Interativas.🧑‍💻 <br/>
 💻Atualmente estou estudando minha Primeira Linguagem (Java Script).💻<br/>
 
+## 👉 Conhecimento nas Seguintes Tecnologias 👈
+<div style="display: inline-block">
+  <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                 <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+</div><br/>
+
 ## ✔️ Github Stats 
 <div align="left">
   <img height="160em" 
@@ -13,12 +19,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </br>
-
-## 👉 Conhecimento nas Seguintes Tecnologias 👈
-<div style="display: inline-block">
-  <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                 <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
-</div>
 
 ## 🗣️ Minhas Redes Sociais 🗣️
    <div style="display: inline-block">
