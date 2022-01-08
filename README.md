@@ -5,9 +5,11 @@
 🧑‍💻 Sou Desenvolvedor Web iniciante focado no Desenvolvimento de plataformas Web Adaptaveis e Interativas.🧑‍💻 <br/>
 💻Atualmente estou estudando minha primeira linguagem (Java Script).💻<br/>
 
-<div>
-  <a align="center" href="https://github.com/Thiagodev777">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <div align="left">
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ## 👉 Conhecimento nas Seguintes Tecnologias 👈
