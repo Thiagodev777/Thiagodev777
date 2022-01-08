@@ -2,20 +2,19 @@
 
 ### Um pouco sobre mim ✍️
 
-🧑‍💻 Sou Desenvolvedor Web iniciante focado no Desenvolvimento de plataformas Web Adaptaveis e Interativas.🧑‍💻 <br/>
-💻Atualmente estou estudando minha primeira linguagem (Java Script).💻<br/>
+🧑‍💻 Sou Desenvolvedor Web iniciante Focado no Desenvolvimento de Plataformas Web Adaptaveis e Interativas.🧑‍💻 <br/>
+💻Atualmente estou estudando minha Primeira Linguagem (Java Script).💻<br/>
 
-## 📊 Github Stats
+## ✔️ Github Stats
 <div align="left">
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api?username=Gurtinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurtinho&layout=compact&langs_count=7&theme=radical"/>
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&langs_count=7&theme=radical"/>
 </div>
 </br>
 
 ## 👉 Conhecimento nas Seguintes Tecnologias 👈
-
 <div style="display: inline-block">
   <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />                                 <img style="width="40" height="30" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
