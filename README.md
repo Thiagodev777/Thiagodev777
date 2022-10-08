@@ -5,9 +5,11 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
+I am a Backend Developer ⭐
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+I love to code and create new things, I really enjoy discovering new technologies and diving deep into problem solving. 🎯
+
+Focused on Web Applications Backend Development, Apis Development and Application Integrations with Database. 📊
 
 ## My specialties:
 
