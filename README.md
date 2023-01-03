@@ -1,17 +1,13 @@
-# Hi, I'm Antonio Thiago!
+<img width='100%' src='https://capsule-render.vercel.app/api?type=waving&color=258d19&height=120&section=header' />
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thiagodev777)](https://github.com/Thiagodev777)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antônio-thiago-75673a22a/)](https://www.linkedin.com/in/antônio-thiago-75673a22a/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Antonio+Thiago;I'm+19+years+old;I+from+Rio+de+Janeiro,+RJ;Studying+Backend+Development+at+Cruzeiro+do+Sul;Be+Welcome!+⭐)](https://git.io/typing-svg)
 
-## About me:
 
-I am a Backend Developer ⭐
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&count_private=true&hide_border=true&title_color=258d19&icon_color=258d19&text_color=fff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&hide_border=true&title_color=258d19&text_color=fff&bg_color=0d1117" />
+</div>
 
-I love to code and create new things, I really enjoy discovering new technologies and diving deep into problem solving. 🎯
-
-Focused on Web Applications Backend Development, Apis Development and Application Integrations with Database. 📊
-
-## My specialties:
 
 ### Languages: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -23,10 +19,6 @@ Focused on Web Applications Backend Development, Apis Development and Applicatio
 
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-
-[![Thiagodev777 github stats](https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Thiagodev777)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Thiagodev777)
     
 
   
