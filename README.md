@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Antonio+Thiago;I'm+19+years+old;I+from+Rio+de+Janeiro,+RJ;Studying+Backend+Development+at+Cruzeiro+do+Sul;Be+Welcome!+⭐)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&count_private=true&hide_border=true&title_color=258d19&icon_color=258d19&text_color=fff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&count_private=true&hide_border=true&title_color=258d19&icon_color=258d19&text_color=fff&bg_color=0d1117" alt="Antonio Thiago" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&hide_border=true&title_color=258d19&text_color=fff&bg_color=0d1117" />
 </div>
 
