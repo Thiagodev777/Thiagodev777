@@ -1,7 +1,6 @@
 <img width='100%' src='https://capsule-render.vercel.app/api?type=waving&color=258d19&height=120&section=header' />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Antonio+Thiago;I'm+19+years+old;I+from+Rio+de+Janeiro,+RJ;Studying+Backend+Development+at+Cruzeiro+do+Sul;Be+Welcome!+⭐)](https://git.io/typing-svg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Antonio+Thiago;I'm+19+years+old;I+from+Rio+de+Janeiro,+RJ;Studying+Backend+Development+at+Cruzeiro+do+Sul;Be+Welcome!+⭐)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thiagodev777&show_icons=true&count_private=true&hide_border=true&title_color=258d19&icon_color=258d19&text_color=fff&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -19,7 +18,6 @@
 ### Database: <img src ="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Version Control: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
