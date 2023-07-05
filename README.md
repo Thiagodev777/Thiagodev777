@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagodev777&layout=compact&hide_border=true&title_color=1b98e0&text_color=fff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Thiagodev777&bg_color=0d1117&color=1b98e0&line=fff&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 **LANGUAGES**
 </br>
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
